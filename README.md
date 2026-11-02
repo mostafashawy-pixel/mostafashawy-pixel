@@ -9,7 +9,7 @@ Buying furniture online is guesswork. Every store has its own site, and none sho
 ### What I'm building
 - **Web app:** cross-retailer furniture search and a 3D home studio with an AI layout assistant
 - **iPhone app:** LiDAR room scan into a 3D copy of your space
-- **Catalogue:** real retailer 3D models from Australian stores
+- **Catalogue:** real 3D models from retailers
 
 Now in an early pilot with university students in Melbourne.
 
